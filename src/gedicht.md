@@ -9,4 +9,7 @@ Gelb
 Lila
 grünblau
 
+Cyan
+Magenta
+
 Sind alles schöne Farben
