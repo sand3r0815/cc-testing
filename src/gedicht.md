@@ -14,3 +14,9 @@ Lila
 grünblau
 
 Sind alles schöne Farben
+
+Schwarz
+Weiß
+Grau
+
+Sind garkeine Farben
