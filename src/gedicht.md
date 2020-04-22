@@ -7,6 +7,6 @@ Grün
 Blau
 Gelb
 Lila
-Türkis
+grünblau
 
 Sind alles schöne Farben
