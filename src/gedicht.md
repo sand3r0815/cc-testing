@@ -4,7 +4,11 @@
 
 Rot
 Grün
+Hellgrün
+Dunkelgrün
 Blau
+Hellblau
+Dunkelblau
 Gelb
 Lila
 grünblau
